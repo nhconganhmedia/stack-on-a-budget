@@ -9,6 +9,7 @@
 - [GitHub](#github)
 - [GitLab](#gitlab)
 - [Launchpad](#launchpad)
+- [MySpec](#myspec)
 
 <!-- /TOC -->
 
@@ -63,3 +64,10 @@
 
 * *Free tier*: unlimited code hosting with Bazaar, free for Open Source
 * *Pros*: bug tracker, code review tool, community translations collaboration, building and hosting Ubuntu packages, mailing lists, simple project specification tracker
+
+## MySpec
+
+[Pricing page](https://myspec.dev)
+
+* *Free tier*: Free forever tier includes unlimited interactive spec interviews, full 4-file bundle generation (constitution.md, requirements.md, solution.md, tasks.md), visual Mermaid architecture diagrams, and MCP server integration for Cursor and Claude.
+* *Pros*: Generates structured specifications and task roadmaps for AI coding agents; prevents hallucination and context drift with out-of-the-box MCP sync.
